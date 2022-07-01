@@ -1,0 +1,32 @@
+C:\Users\pedro\source\repos\ProyektoCSharp\ProyektoCSharp\bin\Debug\ProyektoCSharp.exe.config
+C:\Users\pedro\source\repos\ProyektoCSharp\ProyektoCSharp\bin\Debug\ProyektoCSharp.exe
+C:\Users\pedro\source\repos\ProyektoCSharp\ProyektoCSharp\bin\Debug\ProyektoCSharp.pdb
+C:\Users\pedro\source\repos\ProyektoCSharp\ProyektoCSharp\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\pedro\source\repos\ProyektoCSharp\ProyektoCSharp\obj\Debug\ProyektoCSharp.csprojAssemblyReference.cache
+C:\Users\pedro\source\repos\ProyektoCSharp\ProyektoCSharp\obj\Debug\ProyektoCSharp.Properties.Resources.resources
+C:\Users\pedro\source\repos\ProyektoCSharp\ProyektoCSharp\obj\Debug\ProyektoCSharp.csproj.GenerateResource.cache
+C:\Users\pedro\source\repos\ProyektoCSharp\ProyektoCSharp\obj\Debug\ProyektoCSharp.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\ProyektoCSharp\ProyektoCSharp\obj\Debug\ProyektoCSharp.csproj.CopyComplete
+C:\Users\pedro\source\repos\ProyektoCSharp\ProyektoCSharp\obj\Debug\ProyektoCSharp.exe
+C:\Users\pedro\source\repos\ProyektoCSharp\ProyektoCSharp\obj\Debug\ProyektoCSharp.pdb
+C:\Users\pedro\source\repos\ProyektoCSharp\ProyektoCSharp\obj\Debug\ProyektoCSharp.ProjectMenu.resources
+C:\Users\pedro\source\repos\ProyektoCSharp\ProyektoCSharp\obj\Debug\ProyektoCSharp.Forms.FormCustomer.resources
+C:\Users\pedro\source\repos\ProyektoCSharp\ProyektoCSharp\obj\Debug\ProyektoCSharp.Forms.FormEvent.resources
+C:\Users\pedro\source\repos\ProyektoCSharp\ProyektoCSharp\obj\Debug\ProyektoCSharp.Forms.FormRSVP.resources
+C:\Users\pedro\source\repos\ProyektoCSharp\ProyektoCSharp\obj\Debug\ProyektoCSharp.Forms.FormHome.resources
+C:\Users\Mark Trespeces\source\repos\ProyektoCSharp\ProyektoCSharp\bin\Debug\ProyektoCSharp.exe.config
+C:\Users\Mark Trespeces\source\repos\ProyektoCSharp\ProyektoCSharp\bin\Debug\ProyektoCSharp.exe
+C:\Users\Mark Trespeces\source\repos\ProyektoCSharp\ProyektoCSharp\bin\Debug\ProyektoCSharp.pdb
+C:\Users\Mark Trespeces\source\repos\ProyektoCSharp\ProyektoCSharp\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Mark Trespeces\source\repos\ProyektoCSharp\ProyektoCSharp\obj\Debug\ProyektoCSharp.csprojAssemblyReference.cache
+C:\Users\Mark Trespeces\source\repos\ProyektoCSharp\ProyektoCSharp\obj\Debug\ProyektoCSharp.Forms.FormCustomer.resources
+C:\Users\Mark Trespeces\source\repos\ProyektoCSharp\ProyektoCSharp\obj\Debug\ProyektoCSharp.Forms.FormEvent.resources
+C:\Users\Mark Trespeces\source\repos\ProyektoCSharp\ProyektoCSharp\obj\Debug\ProyektoCSharp.Forms.FormHome.resources
+C:\Users\Mark Trespeces\source\repos\ProyektoCSharp\ProyektoCSharp\obj\Debug\ProyektoCSharp.Forms.FormRSVP.resources
+C:\Users\Mark Trespeces\source\repos\ProyektoCSharp\ProyektoCSharp\obj\Debug\ProyektoCSharp.ProjectMenu.resources
+C:\Users\Mark Trespeces\source\repos\ProyektoCSharp\ProyektoCSharp\obj\Debug\ProyektoCSharp.Properties.Resources.resources
+C:\Users\Mark Trespeces\source\repos\ProyektoCSharp\ProyektoCSharp\obj\Debug\ProyektoCSharp.csproj.GenerateResource.cache
+C:\Users\Mark Trespeces\source\repos\ProyektoCSharp\ProyektoCSharp\obj\Debug\ProyektoCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Mark Trespeces\source\repos\ProyektoCSharp\ProyektoCSharp\obj\Debug\ProyektoCSharp.csproj.CopyComplete
+C:\Users\Mark Trespeces\source\repos\ProyektoCSharp\ProyektoCSharp\obj\Debug\ProyektoCSharp.exe
+C:\Users\Mark Trespeces\source\repos\ProyektoCSharp\ProyektoCSharp\obj\Debug\ProyektoCSharp.pdb
