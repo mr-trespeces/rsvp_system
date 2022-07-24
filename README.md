@@ -39,6 +39,6 @@
     <pre><span>Note: You can't make reservations when:</br>
     - Customer already made a reservation with the same event.
     - When reservation is already full.
-    - Make a reservation past the data.</pre></span></i></h5>
+    - Make a reservation past the date.</pre></span></i></h5>
   <img alt="Customer Page" src="https://github.com/mr-trespeces/rsvp_system/blob/master/RSVP-App/img/rsvp-form.png" height="500" width="800">
 </p>
