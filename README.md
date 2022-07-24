@@ -14,7 +14,7 @@
 </p>
 <h3>Customer Page</h3>
 <p>
-  <i>This image shows an object validation in which you can't create an instance of an object when user inputs a non-valid data.</i></h5>
+  <i>This image shows an object validation in which you can't create an object when user inputs a non-valid data.</i></h5>
   <img alt="Customer Page" src="https://github.com/mr-trespeces/rsvp_system/blob/master/RSVP-App/img/customer-form.png" height="500" width="800">
 </p>
 <p>
