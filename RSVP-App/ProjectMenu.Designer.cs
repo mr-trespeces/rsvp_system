@@ -260,11 +260,10 @@
             this.label2.Dock = System.Windows.Forms.DockStyle.Right;
             this.label2.Font = new System.Drawing.Font("Arial Narrow", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.ForeColor = System.Drawing.SystemColors.HighlightText;
-            this.label2.Location = new System.Drawing.Point(516, 0);
+            this.label2.Location = new System.Drawing.Point(707, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(191, 15);
+            this.label2.Size = new System.Drawing.Size(0, 15);
             this.label2.TabIndex = 3;
-            this.label2.Text = "Group project of Mark, Kent, and Yp. © 2020\r\n";
             // 
             // ProjectMenu
             // 
@@ -279,7 +278,7 @@
             this.ForeColor = System.Drawing.Color.Gainsboro;
             this.Name = "ProjectMenu";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "ProyektoCSharp";
+            this.Text = "Rerservation Form";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.panelMenu.ResumeLayout(false);
             this.panel1.ResumeLayout(false);

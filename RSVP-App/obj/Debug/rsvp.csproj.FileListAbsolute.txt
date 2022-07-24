@@ -2,7 +2,6 @@ C:\Users\Mark Trespeces\source\repos\ProyektoCSharp\ProyektoCSharp\bin\Debug\Pro
 C:\Users\Mark Trespeces\source\repos\ProyektoCSharp\ProyektoCSharp\bin\Debug\ProyektoCSharp.exe
 C:\Users\Mark Trespeces\source\repos\ProyektoCSharp\ProyektoCSharp\bin\Debug\ProyektoCSharp.pdb
 C:\Users\Mark Trespeces\source\repos\ProyektoCSharp\ProyektoCSharp\bin\Debug\FontAwesome.Sharp.dll
-C:\Users\Mark Trespeces\source\repos\ProyektoCSharp\ProyektoCSharp\obj\Debug\rsvp.csprojAssemblyReference.cache
 C:\Users\Mark Trespeces\source\repos\ProyektoCSharp\ProyektoCSharp\obj\Debug\ProyektoCSharp.Forms.FormCustomer.resources
 C:\Users\Mark Trespeces\source\repos\ProyektoCSharp\ProyektoCSharp\obj\Debug\ProyektoCSharp.Forms.FormEvent.resources
 C:\Users\Mark Trespeces\source\repos\ProyektoCSharp\ProyektoCSharp\obj\Debug\ProyektoCSharp.Forms.FormHome.resources
@@ -14,3 +13,4 @@ C:\Users\Mark Trespeces\source\repos\ProyektoCSharp\ProyektoCSharp\obj\Debug\rsv
 C:\Users\Mark Trespeces\source\repos\ProyektoCSharp\ProyektoCSharp\obj\Debug\rsvp.csproj.CopyComplete
 C:\Users\Mark Trespeces\source\repos\ProyektoCSharp\ProyektoCSharp\obj\Debug\ProyektoCSharp.exe
 C:\Users\Mark Trespeces\source\repos\ProyektoCSharp\ProyektoCSharp\obj\Debug\ProyektoCSharp.pdb
+C:\Users\Mark Trespeces\source\repos\ProyektoCSharp\ProyektoCSharp\obj\Debug\rsvp.csproj.AssemblyReference.cache
